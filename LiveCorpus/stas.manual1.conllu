@@ -14,7 +14,7 @@
 14	/	/	PUNCT	_	_	_	_	_	words@sd1987m#@sd1987m#3.121#3.328
 15	придумывали	придумывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@sd1987m#@sd1987m#3.328#3.535
 16	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@sd1987m#@sd1987m#3.535#3.742
-17	крут...	крутой	X	_	Animacy=Inan	_	_	_	words@sd1987m#@sd1987m#3.742#3.949
+17	крут...	крутой	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@sd1987m#@sd1987m#3.742#3.949
 18	крутую	крутой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@sd1987m#@sd1987m#3.949#4.156
 19	когда-то	когда-то	ADV	_	Degree=Pos	_	_	_	words@sd1987m#@sd1987m#4.156#4.363
 20	/	/	PUNCT	_	_	_	_	_	words@sd1987m#@sd1987m#4.363#4.57
