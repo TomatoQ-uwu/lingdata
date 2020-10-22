@@ -19,7 +19,7 @@
 19	когда-то	когда-то	ADV	_	Degree=Pos	_	_	_	words@sd1987m#@sd1987m#4.156#4.363
 20	/	/	PUNCT	_	_	_	_	_	words@sd1987m#@sd1987m#4.363#4.57
 21	/	/	PUNCT	_	_	_	_	_	words@sd1987m#@sd1987m#4.57#4.78
-22	кром...	кром...	ADJ	_	_	_	_	_	words@sd1987m#@sd1987m#5.05#5.361
+22	кром...	кроме	ADP	_	_	_	_	_	words@sd1987m#@sd1987m#5.05#5.361
 23	кроме	кроме	ADP	_	_	_	_	_	words@sd1987m#@sd1987m#5.361#5.672
 24	супер-способности	супер-способность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@sd1987m#@sd1987m#5.672#5.983
 25	давать	давать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@sd1987m#@sd1987m#5.983#6.294
